@@ -4,7 +4,7 @@ I'm a **Software Developer**.
 
 **Specialized**: **C#** and **Unity**. 🎮  
 **Focused**: **C++** (learning more every day) 📈  
-**Experienced**: **JavaScript** and its technologies⚡  
+**Experienced**: **JavaScript** and React.js/Node.js⚡  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guvncnyldz)
 
